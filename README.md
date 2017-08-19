@@ -1,1 +1,2 @@
 # smartphone-diagnostics
+This is a research project that uses 3-D printing to produce cradles for smartphone-based diagnostic systems. These systems use LEDs to excite the protein in the test sample to illuminate and the smartphone camera can show how much protein the test sample has. These equipments are way much cheaper and lighter than the traditional test equipments.
